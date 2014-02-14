@@ -1,9 +1,10 @@
 ## 环境准备 ##
-python版本2.6
-git版本	1.8.4.1
-ruby版本ruby-2.0.0-p353
-gitlab-shell版本 v1.8.0
-gitlab版本6.4.3
+
+### python版本2.6 ###
+### git版本	1.8.4.1 ###
+### ruby版本ruby-2.0.0-p353 ###
+### gitlab-shell版本 v1.8.0 ###
+### gitlab版本6.4.3 ###
 
 因centos6系列的python版本是2.6的，已经支持，所以不必升级python版本。
 在centos5下面需要升级python版本>2.5
