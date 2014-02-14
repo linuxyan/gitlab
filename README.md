@@ -42,6 +42,9 @@
     ln -s /usr/local/bin/ruby /usr/bin/ruby
     ln -s /usr/local/bin/gem /usr/bin/gem
     ln -s /usr/local/bin/bundle /usr/bin/bundle
+    #替换ruby源为淘宝源
+    gem source -r https://rubygems.org/
+    gem source -a http://ruby.taobao.org/
 
 ## 添加git帐号并允许sudo ##
 
